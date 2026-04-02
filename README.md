@@ -87,12 +87,9 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq19&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" />
+  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishq19&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />
-</p>
 
 ---
 
