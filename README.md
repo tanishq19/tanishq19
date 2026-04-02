@@ -12,10 +12,10 @@
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/tanishqbhatia19">
+  <a href="https://www.linkedin.com/in/tanishq-bhatia-7b1167184/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tanishqbhatia19@gmail.com">
+  <a href="mailto:bhatia.tanishq16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/tanishq19">
