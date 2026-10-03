@@ -27,7 +27,7 @@
 
 ## 👋 Hey, I'm Tanishq
 
-### Data Scientist • AI/ML Engineer • Data Analyst
+###   Data Analyst &  Data Scientist  
 
 > *I combine 3+ years of software engineering experience at Accenture with a Master of Data Science from RMIT — bridging the gap between building models and shipping production-ready data systems.*
 
@@ -37,7 +37,7 @@
 
 - 🎓 **Master of Data Science** — RMIT University, Melbourne  Dec 2025)
 - 🏗️ Led a 5-member team building a **RAG pipeline** for a career recommendation platform at TryPath.co
-- 💼 **2+ years at Accenture** as a Software Engineering Analyst on a trade finance platform (SQL, automation, ETL)
+- 💼 **3 years at Accenture** as a Software Engineering Analyst on a trade finance platform (SQL, automation, ETL)
 - 🤖 Focused on **NLP, RAG, LLMs, vector search**, and end-to-end ML pipelines
 - 📊 Passionate about translating data into decisions - **Tableau, Power BI, SQL analytics**
 - ☁️ **Azure AZ-900 certified** | Open to roles across Melbourne & Australia
